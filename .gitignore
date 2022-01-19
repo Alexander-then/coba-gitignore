@@ -1,1 +1,3 @@
-config.txt
+config.txt --> Menyimpan file yang tidak perlu
+contoh/ --> Menyimpan folder yagn tidak perlu
+*.html --> Menyimpan semua extensi html yang tidak perlu
